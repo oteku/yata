@@ -5,7 +5,7 @@ Sample of a REST/JSON API built with ReasonML and compiled to JS with Buckelscri
 Run those commands to use it :
 
 ```sh
-git clone git@github.com:oteku/yat
+git clone git@github.com:oteku/yata
 
 npm i
 

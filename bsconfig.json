@@ -18,6 +18,7 @@
   "namespace": true,
   "bs-dependencies": [
     "bs-express",
+    "bs-cors",
     "bs-knex",
     "@glennsl/bs-json",
     "bs-winston"

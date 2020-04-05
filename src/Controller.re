@@ -71,7 +71,7 @@ module Todos = {
         )
         |> then_(() => {
              rep
-             |> Response.setHeader("Status", "201")
+             |> Response.setHeader("Status", "200")
              |> Response.sendJson(
                   Json.Encode.(object_([("text", string("Updated todo"))])),
                 )
